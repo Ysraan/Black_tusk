@@ -1,0 +1,14 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.193236683)
+
+newmtl 1001
+kd 0.5882 0.5882 0.5882
+ka 0.5882 0.5882 0.5882
+ks 0 0 0
+ke 0 0 0
+d 1
+Ns 40
+illum 2
+map_kd Map__0_Color_Map.tga
+map_ka Map__0_Color_Map.tga
+
